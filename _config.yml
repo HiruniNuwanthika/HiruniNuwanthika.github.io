@@ -23,7 +23,7 @@ repository               : "hiruninuwanthika.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_pic.jpg"
   name             : "Hiruni Kegalle"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Researcher at University of Melbourne"
