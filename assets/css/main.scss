@@ -43,15 +43,25 @@
 ;
 
 /* ===== Custom fonts ===== */
-body {
-  font-family: "Lora", serif;
+
+html, body,
+.page__content,
+.sidebar,
+.author__bio,
+.author__content,
+.archive,
+.archive__item-excerpt {
+  font-family: "Lora", serif !important;
 }
 
+/* Headings + site title + author name */
 h1, h2, h3, h4, h5, h6,
 .site-title,
-.page__title {
-  font-family: "Montserrat", sans-serif;
-
+.page__title,
+.author__name,
+.author__content .author__name,
+.masthead__menu-item a {
+  font-family: "Montserrat", sans-serif !important;
 }
 
 .page {
