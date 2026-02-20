@@ -72,39 +72,6 @@ h1, h2, h3, h4, h5, h6,
   max-width: 900px;
 }
 
-/* ===== Sidebar: show only icons for author links ===== */
 
-/* Hide the text label but keep the icon + clickable area */
-.author__urls-wrapper .author__urls li a span {
-  display: none !important;
-}
-
-/* Make the icons a bit larger and easier to click */
-.author__urls-wrapper .author__urls li a i,
-.author__urls-wrapper .author__urls li a svg {
-  font-size: 1.25em;
-}
-
-/* Optional: arrange icons nicely */
-.author__urls-wrapper .author__urls {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-}
-
-.author__urls-wrapper .author__urls li {
-  margin: 0 !important;
-}
-
-/* Optional: make each icon a neat circular button */
-.author__urls-wrapper .author__urls li a {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 38px;
-  height: 38px;
-  border-radius: 999px;
-  text-decoration: none;
-}
 
 
