@@ -63,13 +63,9 @@
     {% endif %}
   </p>
 
-  {% if post.bibtex %}
-    <details class="pub-bibtex">
-      <summary>BibTeX</summary>
-      <pre><code>{{ post.bibtex | escape }}</code></pre>
-    </details>
-  {% endif %}
+  {% if post.bibtexurl %}
+  [<a href="{{ post.bibtexurl }}" target="_blank" rel="noopener">BibTeX</a>]
 {% endif %}
-
+    
   </article>
 </div>
