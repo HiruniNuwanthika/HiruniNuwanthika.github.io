@@ -12,7 +12,7 @@ My research focuses on participatory design, mixed-methods, and the evaluation o
 
 I have university teaching experience across undergraduate and postgraduate computing programs. At RMIT University and the University of Melbourne, I worked as a tutor in subjects including Usability Engineering, AI and Data Science, and Database Systems.
 
-<h2>Connect me:</h2>
+
 
 <p style="font-size: 1.5em; text-align: center;">
 
@@ -28,7 +28,7 @@ I have university teaching experience across undergraduate and postgraduate comp
 
   &nbsp;&nbsp;
 
-  <a href="www.linkedin.com/in/hiruni-kegalle" target="_blank" aria-label="LinkedIn">
+  <a href="https://www.linkedin.com/in/hiruni-kegalle/" target="_blank" aria-label="LinkedIn">
     <i class="fab fa-linkedin"></i>
   </a>
 
