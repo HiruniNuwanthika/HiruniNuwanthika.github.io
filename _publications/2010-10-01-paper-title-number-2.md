@@ -14,7 +14,4 @@ DOI:10.1234/abcd.5678
 PDF:[Download](/files/paper3.pdf)
 
 BibTeX: [Download](/files/paper3.bib)
-
-
-
 ---
