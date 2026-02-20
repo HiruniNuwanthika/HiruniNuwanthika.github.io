@@ -99,7 +99,10 @@ publication_category:
     title: '2024'
   2023:
     title: '2023'
-
+  2022:
+    title: '2022'
+  2021:
+    title: '2021'
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
 breadcrumbs              : false # true, false (default)
