@@ -17,28 +17,28 @@ I have university teaching experience across undergraduate and postgraduate comp
 <p style="font-size: 1.5em; text-align: center;">
 
   <a href="mailto:hiruni.kegalle@unimelb.edu.au" target="_blank" aria-label="Email">
-    <i class="fas fa-envelope"></i>
+    <i class="fas fa-envelope"  style="color: black;"></i>
   </a>
   &nbsp;
   
   <a href="https://www.linkedin.com/in/hiruni-kegalle/" target="_blank" aria-label="LinkedIn">
-    <i class="fab fa-linkedin"></i>
+    <i class="fab fa-linkedin" style="color: black;"></i>
   </a>
   &nbsp;
 
   <a href="https://scholar.google.com/citations?user=3WvHX3QAAAAJ&hl=en" target="_blank" aria-label="Google Scholar">
-  <i class="fas fa-graduation-cap"></i>
+  <i class="fas fa-graduation-cap" style="color: black;"></i>
   </a>
   &nbsp;
   
   <a href="https://github.com/HiruniNuwanthika" target="_blank" aria-label="GitHub">
-    <i class="fab fa-github"></i>
+    <i class="fab fa-github" style="color: black;"></i>
   </a>
   &nbsp;
 
 
   <a href="https://orcid.org/0009-0002-9758-1368" target="_blank" aria-label="ORCID">
-    <i class="fab fa-orcid"></i>
+    <i class="fab fa-orcid" style="color: black;"></i>
   </a>
 
 </p>
