@@ -1,9 +1,8 @@
 ---
-title: "Paper Title"
+title: "Automating Thematic Analysis How LLMs Analyse Controversial Topics"
 collection: publications
-category: 2025
-permalink: /publication/2024-02-17-paper-title
-year: 2024
-authors: "Hiruni Kegalle, Coauthor Name, Coauthor Name"
-venue: "CHI 2024"
-pdf: "https://arxiv.org/pdf/2304.08721" 
+category: 2024
+excerpt: 'Lida Ghahremanlou, Awais Hameed Khan, Hiruni Kegalle, Rhea D'Silva, Ned Watt, Daniel Whelan-Shamy, Liam Magee. 2024. Microsoft Journal of Applied Science'
+paperurl:'https://arxiv.org/pdf/2405.06919'
+---
+
