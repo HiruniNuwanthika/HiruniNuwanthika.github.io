@@ -56,16 +56,17 @@
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
     
-    {% if post.collection == 'publications' %}
-  <p>
+  {% if post.collection == 'publications' %}
+  <p class="pub-links">
     {% if post.paperurl %}
-      [<a href="{{ post.paperurl }}" target="_blank">PDF</a>]
+      [<a href="{{ post.paperurl }}" target="_blank" rel="noopener">PDF</a>]
+    {% endif %}
+    {% if post.bibtexurl %}
+      [<a href="{{ post.bibtexurl }}" target="_blank" rel="noopener" download>BibTeX</a>]
     {% endif %}
   </p>
-
-  {% if post.bibtexurl %}
-  [<a href="{{ post.bibtexurl }}" target="_blank" rel="noopener">BibTeX</a>]
 {% endif %}
+    
     
   </article>
 </div>
