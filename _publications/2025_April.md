@@ -1,9 +1,9 @@
 ---
-title: "Applying Value Sensitive Design to Location-Based Services: Designing for Shared Spaces and Local Conditions"
+title: "UbiComp4VRU: Ubiquitous Computing for Vulnerable Road Users"
 collection: publications
-category: 2026
-excerpt: Hiruni Kegalle, Flora Salim, Mark Sanderson, Jeffrey Chan, and Danula Hettiachchi In Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI ’26), 2026
-bibfile: "/files/bibtex1.bib"
+category: 2025
+excerpt: Judith S. Heinisch, Klaus David, Si Zuo, Flora Salim, and Hiruni Kegalle. 2026. UbiComp4VRU: Ubiquitous Computing for Vulnerable Road Users. In Companion of the 2025 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp Companion '25)
+bibfile: "/files/bibtex_UbiComp4VRU.bib"
 
 
 
