@@ -64,12 +64,13 @@ h1, h2, h3, h4, h5, h6,
   font-family: "Montserrat", sans-serif !important;
 }
 
-.page {
-  max-width: 1500px;
-}
-
-.page__content {
-  max-width: 900px;
+/* ===== Use more width while keeping the sidebar ===== */
+@media (min-width: 64em) { /* large breakpoint */
+  .page {
+    width: 100% !important;
+    max-width: none !important;
+    margin-right: 0 !important;
+  }
 }
 
 
