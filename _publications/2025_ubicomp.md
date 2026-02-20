@@ -3,4 +3,22 @@ title: "Watch Out! E-scooter Coming Through! Multimodal Sensing of Mixed Traffic
 collection: publications
 category: 2025
 excerpt: Hiruni Kegalle, Danula Hettiachchi, Jeffrey Chan, Mark Sanderson, and Flora D. Salim. 2025. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (UbiComp '25)
+bibtex: {@article{10.1145/3712284,
+author = {Kegalle, Hiruni Nuwanthika and Hettiachchi, Danula and Chan, Jeffrey and Sanderson, Mark and Salim, Flora D.},
+title = {Watch Out! E-scooter Coming Through!: Multimodal Sensing of Mixed Traffic Use and Conflicts Through Riders' Ego-centric Views},
+year = {2025},
+issue_date = {March 2025},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {9},
+number = {1},
+url = {https://doi.org/10.1145/3712284},
+doi = {10.1145/3712284},
+abstract = {E-scooters are becoming a popular means of urban transportation. However, this increased popularity brings challenges, such as road accidents and conflicts when sharing space with traditional transport modes. An in-depth understanding of e-scooter rider behaviour is crucial for ensuring rider safety, guiding infrastructure planning, and enforcing traffic rules. In this paper, we investigated the riding behaviours of e-scooter users through a naturalistic study. We recruited 23 participants, equipped with a bike computer, eye-tracking glasses and cameras, who traversed a pre-determined route, enabling the collection of multi-modal data. We analysed and compared gaze movements, continuous speed, and video feeds across three different transport infrastructure types: a pedestrian-shared path, a cycle lane and a roadway. Our findings reveal that e-scooter riders face unique challenges, including difficulty keeping up with faster-moving cyclists and motor vehicles due to the capped speed limit on shared e-scooters, issues in safely signalling turns due to the risks of losing control when using hand signals, and limited acceptance from other road users in mixed-use spaces. Additionally, we observed that the cycle lane has the highest average speed, the least frequency of speed change points, and the least head movements, supporting the suitability of dedicated cycle lanes - separated from motor vehicles and pedestrians - for e-scooters. These findings are facilitated through multimodal sensing and analysing the e-scooter riders' ego-centric view, which show the efficacy of our method in discovering the behavioural dynamics of the riders in the wild. Our study highlights the critical need to align infrastructure with user behaviour to improve safety and emphasises the importance of targeted safety measures and regulations, especially when e-scooter riders share spaces with pedestrians or motor vehicles. The dataset and analysis code are available at https://github.com/HiruniNuwanthika/Electric-Scooter-Riders-Multi-Modal-Data-Analysis.git.},
+journal = {Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.},
+month = mar,
+articleno = {8},
+numpages = {23},
+keywords = {e-scooter, eye-tracking, micro-mobility, rider behaviour, road users, speed variations, video analysis}
+}}
 ---
