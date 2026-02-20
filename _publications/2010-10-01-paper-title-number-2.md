@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 5"
+title: "My chi paper"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-5
@@ -10,7 +10,7 @@ citation: 'Your Name, You. (2024). “Paper Title Number 5.” <i>GitHub Journal
 doi: "10.1234/abcd.5678"
 pdf: "/files/paper3.pdf"
 bibfile: "/files/paper3.bib"
----
+
 
 **DOI:** 10.1234/abcd.5678
 
@@ -18,11 +18,6 @@ bibfile: "/files/paper3.bib"
 
 **BibTeX:** [Download](/files/paper3.bib)
 
-```bibtex
-@inproceedings{yourkey2024,
-  title={Paper Title Number 5},
-  author={Your, Name and Coauthor, Name},
-  booktitle={GitHub Journal of Bugs},
-  year={2024},
-  doi={10.1234/abcd.5678}
-}
+
+
+---
