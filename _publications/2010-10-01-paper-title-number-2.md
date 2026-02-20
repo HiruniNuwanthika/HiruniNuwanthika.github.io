@@ -1,13 +1,9 @@
 ---
-title: My chi paper
+title: "Paper Title"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-5
-excerpt: hort 1–2 sentence summary of the paper.
-date: 2024-02-17
-venue: GitHub Journal of Bugs
-citation: Your Name, You. (2024). Paper Title Number 5.
-DOI:10.1234/abcd.5678
-PDF:[Download](/files/paper3.pdf)
-BibTeX: [Download](/files/paper3.bib)
+permalink: /publication/2024-02-17-paper-title
+year: 2024
+authors: "Hiruni Kegalle, Coauthor Name, Coauthor Name"
+venue: "CHI 2024"
+pdf: "https://arxiv.org/pdf/2304.08721"   # or ACM landing page
 ---
