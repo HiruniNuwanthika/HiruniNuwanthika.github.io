@@ -71,4 +71,18 @@ h1, h2, h3, h4, h5, h6,
   }
 }
 
+/* Landing page social icons */
+.page__content i {
+  font-size: 28px;
+  margin: 0 10px;
+}
+
+.page__content a {
+  text-decoration: none;
+}
+
+.page__content a:hover i {
+  opacity: 0.7;
+}
+
 
