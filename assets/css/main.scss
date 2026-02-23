@@ -87,5 +87,12 @@ h1, h2, h3, h4, h5, h6,
 
 .archive__item-title {
   text-decoration: none !important;
+   font-size: 1.05em;
 }
+
+/* Smaller publication text */
+.archive__item p {
+  font-size: 0.92em;
+}
+
 
