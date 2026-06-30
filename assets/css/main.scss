@@ -86,16 +86,72 @@ h1, h2, h3, h4, h5, h6,
 }
 
 .archive__item-title {
-  font-size: 0.85rem;
+  font-size: 1rem;
 }
 
 /* Smaller publication text */
 .archive__item p {
-  font-size: 0.75em;
+  font-size: 0.9em;
 }
 
 .pub-inline {
-  font-size: 0.55rem;
+  font-size: 0.7rem;
+}
+
+/* Publication titles are plain text — don't underline on hover so they don't look clickable */
+.archive__item:hover .archive__item-title {
+  text-decoration: none;
+}
+
+/* Footer removed — hide the empty footer bar (scripts inside still run) */
+.page__footer {
+  display: none;
+}
+
+/* News: title on top, image left + text right below it */
+.news-item {
+  margin-bottom: 2rem;
+  font-size: 1rem;          /* larger than the tiny default */
+  line-height: 1.5;
+}
+
+.news-item__title {
+  margin: 0 0 0.25rem;
+}
+
+.news-item__date {
+  font-style: italic;
+  margin: 0 0 0.5rem;
+}
+
+.news-item__content {
+  display: flex;
+  gap: 1.5rem;
+  align-items: flex-start;
+}
+
+.news-item__image {
+  flex: 0 0 220px;          /* width of the image column */
+}
+
+.news-item__image img {
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+.news-item__text {
+  flex: 1;
+}
+
+/* Stack image above text on narrow screens */
+@media (max-width: 600px) {
+  .news-item__content {
+    flex-direction: column;
+  }
+  .news-item__image {
+    flex-basis: auto;
+  }
 }
 
 

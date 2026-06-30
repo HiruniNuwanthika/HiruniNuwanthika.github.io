@@ -1,13 +1,14 @@
 ---
 layout: archive
-title: "Teaching"
-permalink: /teaching/
+title: "Awards"
+permalink: /awards/
 author_profile: true
 hide_title: true
 ---
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
+{% assign awards = site.awards | sort: 'date' | reverse %}
+{% for post in awards %}
   {% include archive-single.html %}
 {% endfor %}
